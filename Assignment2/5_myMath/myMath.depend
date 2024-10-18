@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647954049 source:c:\users\24809\desktop\程设\cs1604-assignment2\starter_files\submission_sample\5_mymath\mymath.cpp
+	<string>
+	<iostream>
+
+1647939571 source:c:\users\24809\desktop\程设\cs1604-assignment2\starter_files\submission_sample\5_mymath\main.cpp
+	<iostream>
+	"myMath.h"
+
+1647954049 c:\users\24809\desktop\程设\cs1604-assignment2\starter_files\submission_sample\5_mymath\mymath.h
+

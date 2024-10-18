@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649845527 source:c:\users\24809\desktop\c++\assign3\2_identifierify\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

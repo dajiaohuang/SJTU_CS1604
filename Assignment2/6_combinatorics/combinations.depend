@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647793056 source:c:\users\24809\desktop\程设\cs1604-assignment2\starter_files\submission_sample\6_combinatorics\combinatorics.cpp
+
+1647860918 source:c:\users\24809\desktop\程设\cs1604-assignment2\starter_files\submission_sample\6_combinatorics\main.cpp
+	<iostream>
+	"combinatorics.h"
+
+1647793056 c:\users\24809\desktop\程设\cs1604-assignment2\starter_files\submission_sample\6_combinatorics\combinatorics.h
+
